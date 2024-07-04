@@ -43,6 +43,7 @@
 input {
   margin-right: 10px;
   height: 40px;
+  width: 500px;
 }
 
 button {
@@ -52,5 +53,13 @@ button {
   background-color: palevioletred;
   font-family: "Roboto";
   border: 0px;
+  margin-top: 5px;
+  font-weight: bold;
+}
+
+li {
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 25px;
 }
 
